@@ -1,0 +1,10 @@
+student, assignment, submission status
+Chinemerem, Shell Navigation, not submitted
+Chiagoziem, Git, submitted
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
+Luigi, SDL Term1, not submitted
+Dan, Reflective Thinking, not submitted
+Dylan, Learning Processes, not submitted
+Jennifer, Typing Lab, submitted
+Douce, Elab C1, submitted
